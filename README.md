@@ -36,7 +36,7 @@ valueVerticalOffset:40
 data: []
 
 value:0
-
+ 
 Here is a usage sample:
 
     <div>
