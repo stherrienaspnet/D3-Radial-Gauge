@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3RadialGauge", "D3RadialGauge\D3RadialGauge.csproj", "{20C16034-AB35-4FC4-805F-0C701119ECDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C16034-AB35-4FC4-805F-0C701119ECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C16034-AB35-4FC4-805F-0C701119ECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C16034-AB35-4FC4-805F-0C701119ECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C16034-AB35-4FC4-805F-0C701119ECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
