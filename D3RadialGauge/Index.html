@@ -20,13 +20,10 @@
 
 <body>
     <div>
-        <a id="myTooltip" title="This is my message"></a>
         <div id="svgTarget"></div>
-        
     </div>
     <script>
         $(function () {
-
             var gaugeRanges = [
                 {
                     From: 1.5,
@@ -49,7 +46,6 @@
 
             $("#svgTarget").mttD3Gauge({ data: gaugeRanges, value: 3 });
         });
-
     </script>
 </body>
 </html>
