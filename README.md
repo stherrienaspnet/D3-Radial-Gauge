@@ -3,6 +3,8 @@ D3-Radial-Gauge
 
 D3.JS Radial Gauge
 
+![alt tag](https://raw.github.com/stherrienaspnet/D3-Radial-Gauge.git/D3RadialGauge.png)
+
 Here is the list of properties with their default value that can be changed according to your needs:
 
         var settings = $.extend({
