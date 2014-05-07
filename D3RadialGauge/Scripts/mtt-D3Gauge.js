@@ -120,7 +120,7 @@
 
             var textWidth = dummyText.node().getBBox().width;
 
-            for (var i = 0; i <= majorGraduationsAngles.length; i++) {
+            for (var i = 0; i < majorGraduationsAngles.length; i++) {
                 var angle = majorGraduationsAngles[i];
                 var cos1Adj = Math.round(Math.cos((90 - angle) * Math.PI / 180) * (settings.innerRadius - settings.majorGraduationMarginTop - settings.majorGraduationLenght - textHorizontalPadding));
                 var sin1Adj = Math.round(Math.sin((90 - angle) * Math.PI / 180) * (settings.innerRadius - settings.majorGraduationMarginTop - settings.majorGraduationLenght - textVerticalPadding));
