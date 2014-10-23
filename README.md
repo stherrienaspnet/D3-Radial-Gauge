@@ -56,3 +56,5 @@ Here is a usage sample:
             $("#svgTarget").mttD3Gauge({ data: gaugeRanges, value: 3 });
         });
     </script>
+
+http://plnkr.co/edit/sP0dHuGoCpaIvCiqoNxF?p=preview
